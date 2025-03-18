@@ -1,0 +1,6 @@
+@DreamVault.Api_HostAddress = http://localhost:5116
+
+GET {{DreamVault.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

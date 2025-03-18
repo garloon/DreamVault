@@ -1,0 +1,24 @@
+# .NET
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.log
+*.nupkg
+*.swp
+*.DS_Store
+
+# React
+node_modules/
+build/
+dist/
+*.log
+.DS_Store
+.env
+
+.vs/
+.idea/
+dist/
